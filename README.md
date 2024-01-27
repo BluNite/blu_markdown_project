@@ -11,7 +11,6 @@
 
 ## [Contents](#contents)
 
-- [Blunite_README_Generator](#blunite_readme_generator)
   - [Blunite_README_Generator](#blunite_readme_generator-1)
   - [Contents](#contents)
   - [About](#about)
