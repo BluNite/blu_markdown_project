@@ -5,7 +5,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![badge: W3schools](https://img.shields.io/badge/W3Schools-04AA6D.svg?style=for-the-badge&logo=W3Schools&logoColor=white)![badge:stackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)![badge:js](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[A deployed version can be viewed here.](https://blunite.github.io/bluHibiscus_quizApp/)
+
 
 ## [Blunite_README_Generator](#blunite_readme_generator)
 
@@ -62,8 +62,9 @@ Then a badge for that license is rendered at the top of the README page
 ```
 
 ## Visuals 🖼️
+- Video can be viewed here
 
-![]()
+https://drive.google.com/file/d/1YYdjAtkdEVXUkD238r42gF1OWvYb5OFj
 
 ## Installation 🏗️
 
