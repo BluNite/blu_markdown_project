@@ -108,7 +108,7 @@ Following a code review, your feature will be merged.
 ```md
 - Familiarizing with the Inquirer package
 - understanding the flow of data with import/export of modules and rendering data to the markdown file
-- fs module and its functions: this was good practice in understanding write, read, and updating files in Node.
+- fs module and its functions: this project was good practice for understanding the write, read, and updating files in Node FS.
 ```
 
 ---
